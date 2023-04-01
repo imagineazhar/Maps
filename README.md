@@ -23,7 +23,7 @@
   <summary>Contributions in chronological order (click to expand)</summary>
 
 <!-- toc -->
-* **Map created in 2023**
+* **Maps created in 2023**
   * 03/31/2023 [The World, 1000 AD](https://github.com/imagineazhar/Maps/tree/main/The%20World%2C%201000%20AD)
 <!-- tocstop -->
 </details>
