@@ -1,0 +1,9 @@
+*.Rhistory
+*.csv
+*.xlsx
+*.shp
+README.md
+*.dbf
+*.sbn
+*.sbx
+*.shx
