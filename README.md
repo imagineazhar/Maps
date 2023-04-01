@@ -26,8 +26,9 @@
 * **Challenges 2023**
   * 03/31/2023 [The World, 1000 AD](https://github.com/imagineazhar/Maps/tree/main/The%20World%2C%201000%20AD)
 <!-- tocstop -->
+</details>
 
-### Map 001 [The World, 1000 AD](https://github.com/imagineazhar/Maps/tree/main/The%20World%2C%201000%20AD)
+### Map 001 - [The World, 1000 AD](https://github.com/imagineazhar/Maps/tree/main/The%20World%2C%201000%20AD)
 
 ![The World, 1000 AD](https://github.com/imagineazhar/Maps/blob/main/The%20World%2C%201000%20AD/world-1000AD.png)
 
